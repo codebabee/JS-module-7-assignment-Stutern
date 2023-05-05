@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function BottomLeftMenuItem(props) {
+export default function BottomRightMenuItem(props) {
   return (
     <div>
-        <a href="#">
+        <a className='footer-link' href="#">
             {props.title}
         </a>
     </div>

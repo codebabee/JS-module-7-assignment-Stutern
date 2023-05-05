@@ -1,0 +1,27 @@
+.section-container {
+    width: 40em;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 9rem;
+}
+.button-container {
+    display: flex;
+    margin-left: 6rem;
+    margin-top: 0rem;
+}
+.text {
+    font-size: 0.9rem;
+    margin-left: 2.9rem;
+    margin-top: 1.3rem;
+}
+a {
+    text-decoration: none;
+    color:rgb(65, 3, 158)
+}
+.language-container {
+    display: flex;
+    gap: 1em;
+    font-size: 0.9rem;
+    margin-left: 5.7rem;
+    margin-top: 2rem;;
+}

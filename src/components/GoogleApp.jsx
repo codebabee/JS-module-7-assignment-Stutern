@@ -1,6 +1,6 @@
 import Header from "./Header";
-import SearchSection from "./SearchSection";
-import Footer from "./Footer";
+import SearchSection from "./SearchSection/SearchSection";
+import Footer from "./Footer/Footer";
 
 
 const GoogleApp = () => {

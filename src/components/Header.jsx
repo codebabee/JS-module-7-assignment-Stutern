@@ -1,7 +1,6 @@
 import AppsLauncherIcon from "./AppsLauncherIcon";
 import Avatar from "./Avatar";
-import LogoComponent from "./LogoComponent";
-import MenuItem from "./MenuItem";
+import MenuItem from "./Footer/MenuItem";
 
 const Header = () => {
  return (

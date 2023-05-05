@@ -1,10 +1,11 @@
-import React from 'react'
+import React from 'react';
+import './Footer.css';
 
 const country="Nigeria";
 export default function Location() {
   return (
     <div>
-      <p>{country}</p>
+      <p className='location'>{country}</p>
     </div>
   )
 }

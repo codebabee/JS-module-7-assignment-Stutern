@@ -3,7 +3,7 @@ import BottomLeftMenuItem from './BottomLeftMenuItem'
 
 export default function BottomLeftMenu() {
   return (
-    <div>
+    <div  className='bottom-left-menu'>
       <BottomLeftMenuItem title={"About"} />
       <BottomLeftMenuItem title={"Advertising"} />
       <BottomLeftMenuItem title={"Business"} />

@@ -1,5 +1,5 @@
 import React from 'react'
-import Icon from '../images/app-launcher-icon.svg'
+import Icon from './app-launcher-icon.svg'
 
 export default function AppsLauncherIcon() {
   return (

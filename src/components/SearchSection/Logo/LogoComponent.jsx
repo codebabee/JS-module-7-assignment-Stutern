@@ -1,5 +1,6 @@
 import React from 'react'
-import Logo from '../images/googlelogo.png'
+import Logo from './images/googlelogo.png'
+import './LogoComponent.css'
 
 export default function LogoComponent() {
   return (
