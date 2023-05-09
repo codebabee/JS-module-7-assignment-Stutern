@@ -3,7 +3,7 @@ import './Footer.css';
 
 export default function BottomLeftMenuItem(props) {
   return (
-    <div className='bottom-left-menu'>
+    <div>
         <a className='footer-link' href="#">
             {props.title}
         </a>
